@@ -1,16 +1,23 @@
-# flutter_shop
+# Flutter Shop
 
-A new Flutter project.
+This app is made to demonstrate features like Login/Register, Shop Products, Cart functionalty, Placing Orders.
 
-## Getting Started
+## Run app
 
-This project is a starting point for a Flutter application.
+To run the app, Connect the emulator with the code editor.
 
-A few resources to get you started if this is your first Flutter project:
+Then Make sure, the dependencies are installed in your code. To do so, run this command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the app, Use this command:
+
+- flutter run
+
+
+## Build app
+
+To Build the app, use this command for Release mode.
+
+- flutter build appbundle --release
+
